@@ -8,26 +8,27 @@ This project is perfect for:
 	•	Building shape-rendering algorithms
 	•	Understanding terminal graphics in C
 
-⸻
+___________________________________________________
 
 🚀 Features
 
-✔ Full A–Z alphabet rendering
+✔ Full A–Z alphabet rendering.
+	--Every letter is manually designed using precise character-plotting logic.
 
-Every letter is manually designed using precise character-plotting logic.
+✔ Custom Size.
+	--You choose any size → letters scale accordingly.
 
-✔ Custom Size
+✔ Horizontal & Vertical Printing.
+	--pos = 1 → Stores in array (horizontal output)
+	--pos = 2 → Direct vertical print
 
-You choose any size → letters scale accordingly.
-
-✔ Horizontal & Vertical Printing
-	•	pos = 1 → Stores in array (horizontal output)
-	•	pos = 2 → Direct vertical print
-
-✔ Reverse Mode
-
-Print your string backwards.
+✔ Reverse Mode.
+	--Print your string backwards.
 
 ✔ Clean ASCII Borders
+	For better presentation around the rendered output.
 
-For better presentation around the rendered output.
+___________________________________________________
+
+
+
